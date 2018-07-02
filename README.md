@@ -5,7 +5,7 @@ The code has been tested with:
 
 - Operating system: Linux Ubuntu 14.04 x86_64
 - Leap Motion (model LM-010)
-- Blender 2.74
+- Blender 2.78b
 - Python 3.4
 - Leap Motion SDK 2.3.1
 - Python Scipy module
