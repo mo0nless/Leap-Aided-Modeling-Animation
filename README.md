@@ -78,4 +78,4 @@ Motion along curve:
 
 Copyright Information
 ------------
-This code implementation is only for research or education purposes, and not freely available for commercial use or redistribution. The intellectual property and code implementation belongs to the University of Bologna. I would ask you to contact me if you intend to seriously use, redistribute or publish anything related to this code or repository.
+This code implementation is only for research or education purposes, and not freely available for commercial use. The intellectual property and code implementation belongs to the University of Bologna. I would ask you to contact me if you intend to seriously use, redistribute or publish anything related to this code or repository.
