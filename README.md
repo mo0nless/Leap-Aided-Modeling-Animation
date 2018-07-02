@@ -26,7 +26,7 @@ Three modes for motion along curve: Follow Object, Frenet Frame, Center of Inter
 User view editing operations:
 Press the P key to activate it. 
 - The pose of recognition is given by the three fingers of the left hand: thumb, index, middle finger. 
-Move the hand in with that pose to rotate and translate the view.
+  Move the hand in with that pose to rotate and translate the view.
 - Displacement with external structure: create a structure similar to the one in the thesis (requires initial calibration)
 
 Interaction operations in Object Mode:
@@ -44,34 +44,34 @@ Interaction operations in Edit Mode:
 
 Curves and NURBS surfaces:
 - Enter Drawing mode:
-  1) Press the D key in mod. Displacement
-  2) Draw the curve starting from the origin with the right index finger
+  - Press the D key in mod. Displacement
+  - Draw the curve starting from the origin with the right index finger
 - Create NURBS curve:
-  3) Press the D key to end the drawing and obtain the resulting NURBS curve (with panel parameters on the left)
+  - Press the D key to end the drawing and obtain the resulting NURBS curve (with panel parameters on the left)
   (Alternative: select a 2D polyline curve and use the panel to convert it to NURBS)
 - Extrusion surface creation:
-  3) Press the E key on the keyboard
-  4) Move the index finger up and down to adjust the height of the surface
-  5) Press the E key to confirm the height
+  - Press the E key on the keyboard
+  - Move the index finger up and down to adjust the height of the surface
+  - Press the E key to confirm the height
   (Alternative: select a NURBS curve and use the panel to create an extrusion surface)
 - Rotation surface creation:
-  3) Execute the gesture "Circle" with the index finger of the left hand (the curve around the X axis)
+  - Execute the gesture "Circle" with the index finger of the left hand (the curve around the X axis)
   (Alternative: select a NURBS curve and use the panel to create a rotation surface)
 - Creation of skinning surface:
-  3) Press the J key on the keyboard to draw each successive curve
-  4) To finish the drawing and generate the surface, press the J key twice in a row
+  - Press the J key on the keyboard to draw each successive curve
+  - To finish the drawing and generate the surface, press the J key twice in a row
   (Alternative: select multiple 2D NURBS curves along the Z axis and use the panel to create a skinning surface)
 - Swinging surface creation:
   (the curve initially drawn is the trajectory, which must be drawn around the point (-1, -1) intended as origin)
-  3) Press the K key on the keyboard to draw the profile curve on the XZ plane
-  4) Press the K key to confirm the profile curve and obtain the swinging surface
+  - Press the K key on the keyboard to draw the profile curve on the XZ plane
+  - Press the K key to confirm the profile curve and obtain the swinging surface
   (Alternative: select a NURBS curve on the XY plane around the origin, a NURBS curve on the XZ plane and use the panel to create a swinging surface)
 
 Motion along curve:
 - Enter Object Mode:
-  1) Select the position of 3D cursor (Start point of the curve)
-  2) Select 1 or more object 
-  3) Press ; to start
-  4) Draw the curve starting from the 3D cursor with the right index finger
-  5) Personalize your settings from the N panel
-  6) Press ; to create the PATH and bond the object to it
+  - Select the position of 3D cursor (Start point of the curve)
+  - Select 1 or more object 
+  - Press ; to start
+  - Draw the curve starting from the 3D cursor with the right index finger
+  - Personalize your settings from the N panel
+  - Press ; to create the PATH and bond the object to it
