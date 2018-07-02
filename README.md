@@ -70,7 +70,7 @@ Curves and NURBS surfaces:
 Motion along curve:
 - Enter Object Mode:
   - Select the position of 3D cursor (Start point of the curve)
-  - Select 1 or more object 
+  - Select one or more object 
   - Press ; to start
   - Draw the curve starting from the 3D cursor with the right index finger
   - Personalize your settings from the N panel
