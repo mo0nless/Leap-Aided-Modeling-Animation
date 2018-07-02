@@ -10,6 +10,8 @@ The code has been tested with:
 - Leap Motion SDK 2.3.1
 - Python Scipy module
 
+For a few videos examples please visit this <a href="https://www.youtube.com/watch?v=nES1hmCJBLU&list=PLjBy4bcSz3fo7oJYm3-9Sqqwvg2LwebQR">LINK</a>
+
 -------------------------------------------------- -----------------------------------------
 BASIC INFORMATION
 
