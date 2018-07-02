@@ -1,5 +1,5 @@
 # Leap-Aided-Modeling-Animation
-The project is an addon for Blender that's allow you to exceed the obstacle of working in a 3D space with 2D input devices. Using the Leap Motion controller as a supporting device, the users can interact with Blender for modify, modelling and animating 3D objects 
+The project is an addon for Blender that's allow you to exceed the obstacle of working in a 3D space with 2D input devices. Using the Leap Motion controller as a supporting device, the users can interact with Blender for modify, modelling and animating 3D objects. All the code was build in collaboration with <a href="https://www.linkedin.com/in/lucarinaldi91/">Luca Rinaldi</a>.
 
 The code has been tested with:
 
@@ -75,3 +75,7 @@ Motion along curve:
   - Draw the curve starting from the 3D cursor with the right index finger
   - Personalize your settings from the N panel
   - Press ; to create the PATH and bond the object to it
+
+Copyright Information
+------------
+This code implementation is only for research or education purposes, and not freely available for commercial use or redistribution. The intellectual property and code implementation belongs to the University of Bologna. I would ask you to contact me if you intend to seriously use, redistribute or publish anything related to this code or repository.
